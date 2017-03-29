@@ -1,2 +1,2 @@
-# Squad
-Technical Task for Squad
+# squadTask
+Squad Assignment
